@@ -1,0 +1,13 @@
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\bin\Debug\Морской бой.exe.config
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\bin\Debug\Морской бой.exe
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\bin\Debug\Морской бой.pdb
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.csproj.AssemblyReference.cache
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской_бой.Properties.Resources.resources
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.csproj.GenerateResource.cache
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.csproj.CoreCompileInputs.cache
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.exe
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской бой.pdb
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской_бой.Menu.resources
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской_бой.Instruction.resources
+C:\Users\Nikitisburritos\OneDrive\Рабочий стол\Морской бой\Морской бой\obj\Debug\Морской_бой.Game.resources
